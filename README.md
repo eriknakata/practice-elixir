@@ -1,5 +1,3 @@
-# Xerpa
-
 **Pré-requisitos**
 - Elixir 1.6.4
 
@@ -12,7 +10,7 @@
 
 **Como executar o projeto**
 
-Navegar até a subpasta do projeto apps/text_client e executa os comando:
+Navegar até a subpasta do projeto apps/text_client e executa o comando:
 
 ```
 mix do deps.get, start
